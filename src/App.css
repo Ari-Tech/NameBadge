@@ -1,0 +1,13 @@
+.abbreviated-style{
+    border: 3px solid #1b6eaf;
+    padding: 3px 5px 3px 5px;
+    margin: 5px;
+    width: 30px; /* to be calculated */
+    background: #3498db;
+    border-radius: 20px;
+    color: #fff;
+    text-align: center;
+    font-family: monospace;
+    font-size: 14px;
+    min-width: 40px;
+}
